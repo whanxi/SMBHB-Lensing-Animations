@@ -1,18 +1,26 @@
 # SMBHB-Lensing-Animations
 
-## Animations ($M=10^8\,M_{\odot}$)
+## Quasi-circular LISA binary $5\cdot10^5$ years before merger
 
 <div align="center">
   <table>
     <tr>
       <td align="center">
-        <img src="./BH_binary_with_trails.gif" alt="Binary black-hole animation 1" width="400" />
-        <p>View 1: Binary black hole with trails</p>
+        <img src="./BH_binary_with_trails.gif" alt="Orbits of the SMBHBs" width="400" />
+        <p>The orbits of the SMBHBS</p>
       </td>
       <td align="center">
-        <img src="./BH_binary_with_trails.gif" alt="Binary black-hole animation 2" width="400" />
-        <p>View 2: Binary black hole with trails</p>
+        <img src="./stationary_lisa_caustic_full_orbit.gif" alt="Evolution of the caustic curves" width="400" />
+        <p>The caustic curve evolution. The red dot marks the position of the source drawn to scale.</p>
       </td>
     </tr>
   </table>
+</div>
+<div align="center">
+
+      <td align="center">
+        <img src="./static_lisa_mag_time.gif" alt="Light Curve" width="400" />
+        <p>Lensing light curve.</p>
+      </td>
+
 </div>
