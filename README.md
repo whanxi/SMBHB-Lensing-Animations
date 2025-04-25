@@ -20,5 +20,5 @@
 <p align="center">
   <img src="./static_lisa_mag_time.gif"
        alt="light curve"
-       width="400" height="auto" />
+       width="1500" height="auto" />
 </p>
