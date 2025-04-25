@@ -16,11 +16,9 @@
     </tr>
   </table>
 </div>
-<div align="center">
 
-      <td align="center">
-        <img src="./static_lisa_mag_time.gif" alt="Light Curve" width="400" />
-        <p>Lensing light curve.</p>
-      </td>
-
-</div>
+<p align="center">
+  <img src="./static_lisa_mag_time.gif"
+       alt="light curve"
+       width="400" height="auto" />
+</p>
