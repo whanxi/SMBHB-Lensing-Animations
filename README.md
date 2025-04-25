@@ -22,3 +22,10 @@
        alt="light curve"
        width="1500" height="auto" />
 </p>
+
+<p align="center">
+  <img src="./combined_three_panel_animation.gif"
+       alt="light curve"
+       width="1500" height="auto" />
+</p>
+
