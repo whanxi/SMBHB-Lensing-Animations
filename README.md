@@ -16,5 +16,5 @@ Quasi-circular LISA binary $5\cdot10^5$ years before merger (corresponding to th
 
 <div align="center">
   <img src="./combined_three_panel_animation.gif" alt="Light curve" width="1500" />
-  <p><em>Figure 1: Combined three-panel animation of the light curve.</em></p>
+  <p>Figure 1: Combined three-panel animation of the light curve.</p>
 </div>
