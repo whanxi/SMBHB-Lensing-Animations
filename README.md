@@ -1,6 +1,6 @@
-# SMBHB-Lensing-Animations
 
-Quasi-circular LISA binary $5\cdot10^5$ years before merger (corresponding to the top panel of Fig.3 in PAPER)
+
+# Quasi-circular LISA binary $5\cdot10^5$ years before merger (corresponding to the top panel of Fig.3 in PAPER)
 
 <div align="center">
   <img src="./combined_three_panel_animation.gif" alt="Light curve" width="1500" />
